@@ -28,22 +28,22 @@ Your final Jupyter notebook must:
 * NYTimes - Overall Compound Negative Bias 
 ![news](./images/nytimes.png)
 
-*CNN - Overall Marginal Compound positive Bias
+* CNN - Overall Marginal Compound positive Bias
 ![news](./images/CNN.png)
 
-*BBC - Overall Neutral Compound Bias
+* BBC - Overall Neutral Compound Bias
 ![news](./images/BBC.png)
 
-*CBS - Overall Positive Compound Bias
+* CBS - Overall Positive Compound Bias
 ![news](./images/CBS.png)
 
-*Fox - Overall Positive Compound Bias
+* Fox - Overall Positive Compound Bias
 ![news](images/Fox.png)
 
 
-*Overall Sentiment Bar Chart - Conclusions
-*News Paper Sentiment Analysis
-*NTYTimes and Fox news have negative coorelation
-*BBC has an overall neutral bias
-*CBS has a strong positive bias
-![NewsMoods](Images/moods_bar.png)
+* Overall Sentiment Bar Chart - Conclusions
+* News Paper Sentiment Analysis
+* NTYTimes and Fox news have negative coorelation
+* BBC has an overall neutral bias
+* CBS has a strong positive bias
+![NewsMoods](images/moods_bar.png)
