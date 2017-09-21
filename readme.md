@@ -5,8 +5,7 @@ In this assignment, you'll create a Python script to perform a sentiment analysi
 
 Your final output should provide a visualized summary of the sentiments expressed in Tweets sent out by the following news organizations: __BBC, CBS, CNN, Fox, and New York times__.
 
-![nytimes-glenn-greenwald-diversity-1501703803-article-header.jpg](nytimes-glenn-greenwald-diversity-1501703803-article-header.jpg)
-
+![news.png](news.png)
 
 The first plot will be and/or feature the following:
 
