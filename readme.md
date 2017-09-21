@@ -38,7 +38,7 @@ Your final Jupyter notebook must:
 ![news](./images/CBS.png)
 
 * Fox - Overall Positive Compound Bias
-![news](./images/Fox.png)
+![news](./images/fox.png)
 
 
 * Overall Sentiment Bar Chart - Conclusions
