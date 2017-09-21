@@ -5,7 +5,7 @@ In this assignment, you'll create a Python script to perform a sentiment analysi
 
 Your final output should provide a visualized summary of the sentiments expressed in Tweets sent out by the following news organizations: __BBC, CBS, CNN, Fox, and New York times__.
 
-![news](Images/news.png)
+![news](./Images/news.png)
 
 The first plot will be and/or feature the following:
 
@@ -26,16 +26,16 @@ Your final Jupyter notebook must:
 * Save PNG images for each plot.
 
 * NYTimes - Overall Compound Negative Bias 
-![news](Images/nytimes.png)
+![news](./Images/nytimes.png)
 
 *CNN - Overall Marginal Compound positive Bias
-![news](Images/CNN.png)
+![news](./Images/CNN.png)
 
 *BBC - Overall Neutral Compound Bias
-![news](Images/BBC.png)
+![news](./Images/BBC.png)
 
 *CBS - Overall Positive Compound Bias
-![news](Images/CBS.png)
+![news](./Images/CBS.png)
 
 *Fox - Overall Positive Compound Bias
 ![news](Images/Fox.png)
