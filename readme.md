@@ -39,6 +39,9 @@ Your final Jupyter notebook must:
 * Fox - Overall Positive Compound Bias
 ![news](./images/fox.png)
 
+* Scatter Plot for all news sentiments
+![news](./images/news.png)
+
 
 * Overall Sentiment Bar Chart - Conclusions
 * News Paper Sentiment Analysis
@@ -46,3 +49,6 @@ Your final Jupyter notebook must:
 * BBC has an overall neutral bias
 * CBS has a strong positive bias
 ![NewsMoods](images/moods_bar.png)
+
+
+
