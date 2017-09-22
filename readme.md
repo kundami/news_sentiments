@@ -40,7 +40,7 @@ Your final Jupyter notebook must:
 ![news](./images/fox.png)
 
 * Scatter Plot for all news sentiments
-![news](./images/news.png)
+![news](./images/moods_scatter.png)
 
 
 * Overall Sentiment Bar Chart - Conclusions
